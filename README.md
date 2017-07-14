@@ -1,4 +1,4 @@
-# FeedReader-Testing-With-Jasmine
+# FeedReader Testing With Jasmine
 
 # Project Overview
 
