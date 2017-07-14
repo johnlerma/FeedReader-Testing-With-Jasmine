@@ -1,3 +1,5 @@
+# FeedReader-Testing-With-Jasmine
+
 # Project Overview
 
 This project is a feed reader app that includes tests that i wrote using [Jasmine](http://jasmine.github.io/). The tests can be found in /jasmine/spec/feedreader.js.
@@ -10,7 +12,7 @@ This project is a feed reader app that includes tests that i wrote using [Jasmin
 4. At the bottom of the page you will see the Jasmine with information if the testing suites passed or failed. You should see 8 specs with 0 failures.
 
 
-# How I completed this project?
+# How I completed this project
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
@@ -35,4 +37,4 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 19. Implement error handling for undefined variables and out-of-bound array access.
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
-# FeedReader-Testing-With-Jasmine
+
