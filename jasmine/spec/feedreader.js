@@ -35,7 +35,7 @@ $(function() {
             });
         });
 
-        /* Tloops through allFeeds, expects feed.name has been defined and its not empty
+        /* loops through allFeeds, expects feed.name has been defined and its not empty
          */
 
         it('has a valid Name', function() {
@@ -49,7 +49,7 @@ $(function() {
 
     /* TODO: Write a new test suite named "The menu" */
     describe('The menu', function() {
-        /* epects that the body elemet does indeed have a class of 'menu-hidden'
+        /* expects that the body elemet does indeed have a class of 'menu-hidden'
          */
         it('menu is hidden', function() {
             expect($('body').hasClass('menu-hidden')).toBe(true);
